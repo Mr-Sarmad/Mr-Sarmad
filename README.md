@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Sarmad
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning  python
+- 👀 I’m interested a Bioinformatics 
+- 🌱 I’m currently doing Bsc in Bioinformatics
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me www.linkedin.com/in/mr-sarmad
 
